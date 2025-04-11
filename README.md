@@ -13,7 +13,7 @@ Este site foi desenvolvido para apresentar uma coleção de perfumes femininos e
 2. Abra o arquivo `index.html` no navegador para visualizar o site.
 
 ## Publicação
-O site está hospedado no GitHub Pages e pode ser acessado aqui: [https://seunome.github.io/agevoan-perfumes](https://seunome.github.io/agevoan-perfumes).
+O site está hospedado no GitHub Pages e pode ser acessado aqui: [https://le752.github.io/agevoan-perfumes](https://le752.github.io/agevoan-perfumes).
 
 ## Captura de Tela
 ![Tela Inicial do Site](imagens/screenshot.png)
